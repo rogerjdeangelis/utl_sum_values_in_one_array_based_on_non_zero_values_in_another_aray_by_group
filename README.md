@@ -1,0 +1,2 @@
+# utl_sum_values_in_one_array_based_on_non_zero_values_in_another_aray_by_group
+Sum the B array columns based on corresponding non-zero values in the A array and by group.  Keywords: sas sql join merge big data analytics macros oracle teradata mysql sas communities stackoverflow statistics artificial inteligence AI Python R Java Javascript WPS Matlab SPSS Scala Perl C C# Excel MS Access JSON graphics maps NLP natural language processing machine learning igraph DOSUBL DOW loop stackoverflow SAS community.
